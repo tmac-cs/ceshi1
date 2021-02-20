@@ -13,7 +13,7 @@ namespace ToHtml
     {
 
         /// <summary>
-        /// 写入错误日志文件。
+        /// 写入错误日志文件。2提交
         /// </summary>
         /// <param name="ex">错误对象。</param>
         static public void ErrWriter(Exception ex)
